@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">Akrom Malik</string>
+    <string name="title_activity_head">HeadActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="it_junior">© IT Junior</string>
+
+    <string name="warrior">Jangchi</string>
+    <string name="ring">Halqa</string>
+    <string name="first_chapter">Birinchi bob</string>
+    <string name="second_chapter">Ikkinchi bob</string>
+    <string name="third_chapter">Uchinchi bob</string>
+    <string name="fourth_chapter">To\'rtinchi bob</string>
+    <string name="fifth_chapter">Beshinchi bob</string>
+    <string name="sixth_chapter">Oltinchi bob</string>
+    <string name="seventh_chapter">Yettinchi bob</string>
+    <string name="eighth_chapter">Sakkzinchi bob</string>
+    <string name="ninth_chapter">To\'qqizinchi bob</string>
+    <string name="tenth_chapter">O\'ninchi bob</string>
+    <string name="eleventh_chapter">O\'n birinchi bob</string>
+    <string name="twelfth_chapter">O\'n ikkinchi bob</string>
+    <string name="thirteenth_chapter">O\'n uchinchi bob</string>
+    <string name="fourteenth_chapter">O\'n to\'rtinchi bob</string>
+    <string name="info_app">Dastur haqida</string>
+
+
 </resources>
